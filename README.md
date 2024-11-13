@@ -13,7 +13,7 @@
 - python manage.py makemigrations
 - python manage.py migrate
 
-# Создаем суперпользователя (по желанию)
+# Создаем админа
 - python manage.py createsuperuser
 
 # Запускаем сервер
