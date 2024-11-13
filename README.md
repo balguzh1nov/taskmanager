@@ -19,5 +19,10 @@
 # Запускаем сервер
 - python manage.py runserver
 
+# Чтобы показать ты мог базу данных в терминале введи
+- sqlite3 db.sqlite3
+- .tables
+- select * from tasks_task;
+
 
 
