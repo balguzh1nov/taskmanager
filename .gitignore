@@ -1,0 +1,47 @@
+# Папки для виртуального окружения
+venv/
+env/
+.venv/
+.env/
+
+# Папки и файлы, которые создаются Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи Django
+*.log
+
+# Базы данных
+db.sqlite3
+*.sqlite3
+
+# Миграции
+*/migrations/
+
+# Статические файлы, генерируемые Django
+static/
+media/
+
+# Файлы настройки Django
+*.env
+*.ini
+*.conf
+
+# Кэширование
+.cache/
+
+# PyCharm, VS Code, Sublime и другие IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы тестирования
+*.bak
+*.swp
