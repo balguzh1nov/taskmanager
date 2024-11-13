@@ -3,7 +3,8 @@ git clone https://github.com/balguzh1nov/taskmanager.git
 cd taskmanager
 
 # Создаем и активируем виртуальное окружение
-# Если у тебя на Windows то вводишь эту команду: venv\Scripts\activate
+Если у тебя на Windows то вводишь эту команду: 
+venv\Scripts\activate
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
