@@ -4,7 +4,7 @@ cd taskmanager
 
 # Создаем и активируем виртуальное окружение
 Если у тебя на Windows то вводишь эту команду: 
-venv\Scripts\activate
+- venv\Scripts\activate
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
