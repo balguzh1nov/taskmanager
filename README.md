@@ -16,6 +16,14 @@
 
 # Создаем админа
 - python manage.py createsuperuser
+python manage.py createsuperuser
+Пример вот:
+Username: admin
+Email address: mail@mail.ru
+Password: password
+Password (again): password
+This password is too common.
+Bypass password validation and create user anyway? [y/N]: y
 
 # Запускаем сервер
 - python manage.py runserver
