@@ -13,6 +13,8 @@
 # Применяем миграции
 - python manage.py makemigrations
 - python manage.py migrate
+- python manage.py makemigrations tasks
+- python manage.py migrate tasks
 
 # Создаем админа
 - python manage.py createsuperuser
