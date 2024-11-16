@@ -20,6 +20,8 @@
 
 # Создаем админа
 - python manage.py createsuperuser
+
+
 python manage.py createsuperuser
 Пример вот:
 Username: admin
